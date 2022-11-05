@@ -1,0 +1,10 @@
+*load regulation
+.include AE01005166_01.cir
+.param VSOURCE=5
+.param ILOAD=0.5
+.param RADJ=9.31K
+.param RREF=5.62K
+.param REN=51K
+.dc I1 0 {ILOAD} 1m
+.backanno
+.op

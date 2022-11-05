@@ -1,0 +1,23 @@
+Application: KiCad Schematic Editor
+
+Version: 6.0.8-f2edbf62ab~116~ubuntu20.04.1, release build
+
+Libraries:
+	wxWidgets 3.0.4
+	libcurl/7.68.0 OpenSSL/1.1.1f zlib/1.2.11 brotli/1.0.7 libidn2/2.2.0 libpsl/0.21.0 (+libidn2/2.2.0) libssh/0.9.3/openssl/zlib nghttp2/1.40.0 librtmp/2.3
+
+Platform: Linux 5.4.0-131-generic x86_64, 64 bit, Little endian, wxGTK, unity, x11
+
+Build Info:
+	Date: Sep 30 2022 16:52:13
+	wxWidgets: 3.0.4 (wchar_t,wx containers,compatible with 2.8) GTK+ 3.24
+	Boost: 1.71.0
+	OCC: 7.5.2
+	Curl: 7.85.0
+	ngspice: 36
+	Compiler: GCC 9.4.0 with C++ ABI 1013
+
+Build settings:
+	KICAD_USE_OCC=ON
+	KICAD_SPICE=ON
+
